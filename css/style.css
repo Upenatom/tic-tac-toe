@@ -1,0 +1,74 @@
+.xclass {
+    background-color:white;
+    height:290px;
+    width:290px;
+    border: 3.5px solid black;
+    display:inline-block;
+    text-align:center;
+    line-height:290px;
+    font-size:290px;
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: top;
+
+            }
+
+.oclass{
+    background-color:white;
+    height:290px;
+    width:290px;
+    border: 3.5px solid black;
+    display:inline-block;
+    text-align: center;
+    line-height:290px;
+    font-size:290px;
+    margin:0;
+    padding:0;
+    font-family:Arial, Helvetica, sans-serif;
+    vertical-align: top;
+
+}
+
+.blank{
+    background-color: white;
+    height:290px;
+    width:290px;
+    border: 3.5px solid black;
+    display:inline-block;
+    text-align: center;
+    line-height:290px;
+    font-size: 80px;
+    margin:0;
+    padding:0;
+    font-family:Arial, Helvetica, sans-serif;
+    vertical-align: top;
+}
+
+.win{
+    background-color: rgb(72, 209, 4);
+    height:290px;
+    width:290px;
+    border: 3.5px solid black;
+    display:inline-block;
+    text-align: center;
+    line-height:290px;
+    font-size: 80px;
+    margin:0;
+    padding:0;
+    font-family:Arial, Helvetica, sans-serif;
+    vertical-align: top;
+
+}
+
+.notification{
+    color: darkblue;
+    font-size: 50px;
+ text-align: center;
+}
+
+.title{
+    font-size: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
